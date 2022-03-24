@@ -35,7 +35,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	width: 100%;
+	/* width: 100%; */
 
 	overflow: hidden;
 }
@@ -46,7 +46,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	width: 100%;
-	padding: 2rem 2rem;
+	padding: 1.5rem;
 	background-color: var(--white-color);
 	border-radius: 2rem;
 	border: none;
@@ -103,4 +103,11 @@ body {
 	margin-inline-start: 0.2rem;
 	text-decoration: none;
 	color: #3685fe;
+}
+
+@media (min-width: 376px) {
+	.wrapper {
+		width: 100%;
+		max-width: 350px;
+	}
 }
