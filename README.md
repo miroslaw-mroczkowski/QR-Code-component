@@ -15,13 +15,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot_mobile.png)
-![](./images/screenshot_desktop.png)
+![./images/screenshot_mobile.png]
+![./images/screenshot_desktop.png]
 
 ### Links
 
 - Solution URL: [QR Code component](https://github.com/miroslaw-mroczkowski/QR-Code-component)
-- Live Site URL: [QR Code component](https://your-live-site-url.com)
+- Live Site URL: [QR Code component](https://miroslaw-mroczkowski.github.io/QR-Code-component/)
 
 ## My process
 
